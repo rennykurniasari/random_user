@@ -1,6 +1,6 @@
 # Extract Random User using Apache Airflow
 
-![Random User](https://drive.google.com/file/d/1ka2GSY5uhWLa0jvU_SkQdS4dUdfiES4V/view?usp=share_link)
+![Random User](random-user.png)
 
 ## Background
 
@@ -24,4 +24,4 @@ In summary, the business team requires a continuous stream of user data from the
 
 ## Workflows & Tasks
 
-![Workflows & Tasks](https://drive.google.com/file/d/1h0rLbd-7CuieMeFHRyPEW4xusPSdoYrt/view?usp=share_link)
+![Workflows & Tasks](workflows-tasks.png)
